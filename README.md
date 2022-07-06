@@ -1,6 +1,6 @@
 # Nabagata Saha -- @nabagata
 
-Hi, I'm Nabagata, a graduate from NIT Warangal and currently working at SAP, AI Business Services team. I apply deep learning to solve real-world problems in Computer Vision and Natural Language Processing. Check out my work from my public repositories ✌️
+Hi, I'm Nabagata, a graduate from NIT Warangal and currently working at Sprinklr, Integrations team. I apply deep learning to solve real-world problems in Computer Vision and Natural Language Processing. Check out my work from my public repositories ✌️
 
 Previously, I've worked at IISc Bangalore where I've developed projects for MILE Lab and published research papers([here](https://arxiv.org/abs/1809.00961) and [here](https://arxiv.org/abs/1902.05411)). I've also worked with SkyLark Labs where I've used cutting edge computer vision and deep learning technologies to identify suspicious events in CCTV or aerial videos.
 
