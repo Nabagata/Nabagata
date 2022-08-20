@@ -10,6 +10,5 @@ Off the work, I enjoy building and working with dev communities. I've been mento
 
 * LinkedIn: https://www.linkedin.com/in/nabagata-saha/
 * Twitter: https://twitter.com/nabagatasaha
-* Personal Website: https://nabagata.github.io/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nabagata" alt="Nabagata" /> </p>
